@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> this project is archived as the vscode extension has been merged into the main DTach repo: https://github.com/detachhead/dtach
+
 # Tach - VS Code Extension
 
 
